@@ -2,8 +2,8 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Davi Lavalle Carneiro
+- Matricula: 911439
 
 ## Print da tela da página criada (Curriculum Vitae)
 
