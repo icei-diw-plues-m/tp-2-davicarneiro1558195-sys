@@ -9,4 +9,4 @@
 
 `<Coloque aqui o print da tela do Curriculum Vitae>`
 
-![Print da tela de curriculo](Curriculo.PNG)
+![Print da tela de curriculo](public/Curriculo.PNG)
